@@ -1,20 +1,6 @@
 # gittest
 
-i不打卡动力不足v哈；dflva.dfll.dv.v.lbva;地址jsnfk.jv发的d.bv埃。frd
-
-
-
-fvdfv阿道夫v
-
-vdfv
-
-df 
-
-dfv
-
-df
-
- 的
+该目录仅作练习、测试用
 
 ```
 git checkout (branchname)
